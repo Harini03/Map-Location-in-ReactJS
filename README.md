@@ -12,3 +12,7 @@ Provides location in the map based on State and location
 
 # Chicago City Location Screen
 ![alt_text](https://github.com/Harini03/Map-Location-in-ReactJS/blob/main/Chicago-SS.PNG)
+
+# Steps to run the App
+1. npm install
+2. npm start
